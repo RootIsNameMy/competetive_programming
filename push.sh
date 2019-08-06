@@ -14,3 +14,5 @@ git add .
 git commit -m "Automatic commit ${backup_dir}"
 
 git push https://github.com/RootIsNameMy/competetive_programming.git master
+
+echo RootIsNameMy
